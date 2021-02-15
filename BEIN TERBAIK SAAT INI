@@ -177,5 +177,5 @@ http://iptvclub.live:25461/TOZxLv3Cqecy0rD/SoCTcvc8EbUSEON/105256
 http://iptvclub.live:25461/TOZxLv3Cqecy0rD/SoCTcvc8EbUSEON/105257
 #EXTINF:-1 tvg-ID="beinsports16.qa" tvg-name="beiN Sports 16 4K" tvg-logo="http://www.vodkom.com:25461/images/logobein/bein16-4k.png" group-title="BEIN 4K PUNYA RIAN", (RianTV)beiN Sports 16 4K
 http://iptvclub.live:25461/TOZxLv3Cqecy0rD/SoCTcvc8EbUSEON/105258
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/6610CLTP/XTRA.png" group-title="BEIN 4K PUNYA RIAN",(RianTV)BEIN SPORTS XTRA
+#EXTINF:-1tvg-logo="https://i.postimg.cc/6610CLTP/XTRA.png" group-title="BEIN 4K PUNYA RIAN",(RianTV)BEIN SPORTS XTRA
 https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
